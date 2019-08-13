@@ -17,6 +17,8 @@ Types of groupings
 As of April 2019, the largest known pair of sexy primes was found by S. Batalov and has 31,002 digits. The primes are:
 
 (p, p+6) = (187983281 × 251478 + 4)×(5 × 251478 - 1) + 2 {\displaystyle \pm } \pm  3.[1]
+
+
 2. Sexy prime triplets:
 Sexy primes can be extended to larger constellations. Triplets of primes (p, p + 6, p + 12) such that p + 18 is composite are called sexy prime triplets. Those below 1000 are (OEIS: A046118, OEIS: A046119, OEIS: A046120):
 
